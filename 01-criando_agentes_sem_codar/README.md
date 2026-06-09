@@ -1,9 +1,5 @@
 # Criando seu Primeiro Agente de IA
 
-> Cobrindo desde os fundamentos até exemplos práticos com agentes reais.
-
----
-
 ## Sumário
 
 1. [O que é um Agente de IA?](#o-que-é-um-agente-de-ia)
