@@ -1,0 +1,5 @@
+Estou revisando um contrato de serviços com um fornecedor. Somos uma empresa de pequeno porte com flexibilidade orçamentária limitada. 
+
+Crie uma versão revisada e com marcações que nos proteja de ficarmos presos a algo do qual não podemos sair, garanta que mantenhamos a propriedade de nossos dados e de qualquer trabalho pelo qual pagamos, e nos dê flexibilidade para ajustar ou desistir se as coisas não derem certo. 
+
+Crie um novo arquivo que seja uma cópia exata do contrato com o recurso de controle de alterações ativado. As linhas vermelhas devem mostrar as exclusões (texto riscado em vermelho) e as inserções (texto sublinhado colorido). Use um script para criar comentários ou sugestões nas margens do documento para cada edição, explicando o problema. Sinalize qualquer coisa que possa nos causar problemas mais tarde.
